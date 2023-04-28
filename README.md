@@ -1,7 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-I am Juliane Casier and I am a web developer on React JS Node since 2022 (it's still new)<br><br>- 🔭 I’m currently working on personal projects to improve my skills<br>- 🌱 I’m currently learning web accessibility<br>- 💬 Ask me about ...<br><br>
-
+I am Juliane Casier and I am a web developer on React JS Node since 2022 (it's still new)<br><br>- 🔭 I’m currently working on personal projects to improve my skills<br>- 🌱 I’m currently learning web accessibility<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliane-casier-bb642832/) 
